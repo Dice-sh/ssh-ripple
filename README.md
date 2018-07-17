@@ -14,4 +14,6 @@ password = The password of the user
                            EXECUTION
      
 python3 ssh-ripple.py     
+
+To use brute.py add a wordlist to the directory then run brute.py
                            
